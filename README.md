@@ -30,4 +30,3 @@ Aside from my role at Dynamic Web Lab, I do freelance work as a WordPress develo
 ### Where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmunsakib/) 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/khooseen)
