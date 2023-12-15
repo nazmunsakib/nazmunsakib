@@ -27,13 +27,6 @@ Aside from my role at Dynamic Web Lab, I do freelance work as a WordPress develo
 
 - 📝 Here is my [resume](https://nazmunsakib.com/resume.pdf) 
 
-### Numbers
-![Sakib's Stats](https://github-readme-stats.vercel.app/api?username=nazmunsakib&theme=darcula&show_icons=true&hide_border=true&count_private=true)
-
-![Sakib's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nazmunsakib&theme=darcula&hide_border=true)
-
-![Sakib's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmunsakib&theme=darcula&show_icons=true&hide_border=true&layout=compact)
-
 ### Where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmunsakib/) 
