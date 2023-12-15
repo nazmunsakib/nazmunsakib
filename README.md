@@ -28,7 +28,7 @@ Aside from my role at Dynamic Web Lab, I do freelance work as a WordPress develo
 - 📝 Here is my [resume](https://nazmunsakib.com/resume.pdf)
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazmunsakib&show_icons=true&locale=en&layout=compact" alt="obaydullaa" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obaydullaa&show_icons=true&locale=en" alt="obaydullaa" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazmunsakib&show_icons=true&locale=en" alt="obaydullaa" /></p>
 
 ### Where to find me
 
