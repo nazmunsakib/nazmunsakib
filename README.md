@@ -13,7 +13,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-I am a Lead Developer at [Dynamic Web Lab](https://dynamicweblab.com/), with a passion for crafting remarkable digital experiences. My expertise lies in Full Stack Development, and I thrive on working with cutting-edge technologies such as WP ES6, Headless Tech, React.js, APIs, WordPress, and TailwindCSS.
+I am Lead Developer at [Dynamic Web Lab](https://dynamicweblab.com/), with a passion for crafting remarkable digital experiences. My expertise lies in Full Stack Development, and I thrive on working with cutting-edge technologies such as WP ES6, Headless Tech, React.js, APIs, WordPress, and TailwindCSS.
 
 Aside from my role at Dynamic Web Lab, I do freelance work as a WordPress developer. Currently, I am open to exciting work opportunities and looking forward to contributing my skills and expertise to new and innovative projects.
 
