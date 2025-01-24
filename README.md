@@ -1,4 +1,16 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey dude! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! Nice to see you.</h1>
+
+---
+
+### About Me
+I am **Nazmun Sakib**, a **Lead Developer** at [Dynamic Web Lab](https://dynamicweblab.com/), with a passion for crafting remarkable digital experiences. My expertise lies in **Full Stack Development**, and I thrive on working with cutting-edge technologies such as WP ES6, Headless Tech, React.js, APIs, WordPress, and TailwindCSS.
+
+Aside from my role at Dynamic Web Lab, I also do freelance work as a WordPress developer. I am currently open to exciting work opportunities where I can contribute my skills and expertise to innovative projects.
+
+---
+
+### Skills & Tools
+Here are some of the technologies I work with:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
@@ -13,24 +25,23 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-I am Lead Developer at [Dynamic Web Lab](https://dynamicweblab.com/), with a passion for crafting remarkable digital experiences. My expertise lies in Full Stack Development, and I thrive on working with cutting-edge technologies such as WP ES6, Headless Tech, React.js, APIs, WordPress, and TailwindCSS.
+---
 
-Aside from my role at Dynamic Web Lab, I do freelance work as a WordPress developer. Currently, I am open to exciting work opportunities and looking forward to contributing my skills and expertise to new and innovative projects.
+### Projects
+🔗 Check out all of my projects here: [nazmunsakib.com](https://nazmunsakib.com)
 
-- 👨‍💻 Lead Developer at [Dynamic Web Lab](https://dynamicweblab.com/)
+---
 
-- 👨‍💻 All of my projects are available at [Links](https://nazmunsakib.com)
+### Get in Touch
+- 💬 Ask me about **WordPress, Custom Plugins, and Web Development**
+- 📄 Learn more about my experiences: [Website](https://nazmunsakib.com)
+- 📝 Download my [resume](https://nazmunsakib.com/resume.pdf)
+- 📧 Reach me at: **your-email@example.com**
 
-- 💬 Ask me about **WordPress**
+---
 
-- 📄 Know about my experiences [Website](https://nazmunsakib.com)
+### Fun Fact
+I enjoy organizing **WordPress Meetups** and contributing to the **local developer community** to help others grow their skills!
 
-- 📝 Here is my [resume](https://nazmunsakib.com/resume.pdf)
-
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obaydullaa&" alt="obaydullaa" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazmunsakib&show_icons=true&locale=en&layout=compact" alt="obaydullaa" /></p>
-
-### Where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmunsakib/) 
