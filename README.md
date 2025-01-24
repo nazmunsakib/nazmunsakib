@@ -37,9 +37,9 @@ Here are some of the technologies I work with:
 ### Get in Touch
 - 💬 Ask me about **WordPress, Plugin Development, WooCommerce, and Web Development**
 - 📄 Learn more about my experiences: [Website](https://nazmunsakib.com)
-- 📝 Download my [resume](https://nazmunsakib.com/resume.pdf)
-- 📧 Reach me at: **your-email@example.com**
-
+- 📧 Reach me at: **nazmunsakib81@gmail.com**
+- 📧 Reach me at [Linkedin](https://www.linkedin.com/in/nazmunsakib/)
+  
 ---
 
 ### Fun Fact
