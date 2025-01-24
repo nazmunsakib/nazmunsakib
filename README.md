@@ -3,9 +3,11 @@
 ---
 
 ### About Me
-I am **Nazmun Sakib**, a **Lead Developer** at [Dynamic Web Lab](https://dynamicweblab.com/), with a passion for crafting remarkable digital experiences. My expertise lies in **Full Stack Development**, and I thrive on working with cutting-edge technologies such as WP ES6, Headless Tech, React.js, APIs, WordPress, and TailwindCSS.
+I am **Nazmun Sakib**, a **Lead Developer** at [Dynamic Web Lab](https://dynamicweblab.com/) with a proven track record in creating innovative and user-focused digital solutions. As an **expert plugin developer** and **WooCommerce specialist**, I excel at developing custom WordPress plugins and extending WooCommerce functionality to meet diverse business needs.
 
-Aside from my role at Dynamic Web Lab, I also do freelance work as a WordPress developer. I am currently open to exciting work opportunities where I can contribute my skills and expertise to innovative projects.
+My expertise spans **Full Stack Development**, and I thrive on leveraging cutting-edge technologies such as WP ES6, Headless Tech, React.js, APIs, and TailwindCSS to deliver outstanding results. Whether crafting a bespoke plugin, optimizing an eCommerce platform, or designing interactive websites, I am committed to ensuring top-notch performance and scalability.
+
+In addition to my role at Dynamic Web Lab, I also work as a freelance WordPress developer. I am currently open to exciting opportunities where I can contribute my skills and expertise to drive success in new and innovative projects.
 
 ---
 
@@ -33,7 +35,7 @@ Here are some of the technologies I work with:
 ---
 
 ### Get in Touch
-- 💬 Ask me about **WordPress, Custom Plugins, and Web Development**
+- 💬 Ask me about **WordPress, Plugin Development, WooCommerce, and Web Development**
 - 📄 Learn more about my experiences: [Website](https://nazmunsakib.com)
 - 📝 Download my [resume](https://nazmunsakib.com/resume.pdf)
 - 📧 Reach me at: **your-email@example.com**
@@ -42,6 +44,3 @@ Here are some of the technologies I work with:
 
 ### Fun Fact
 I enjoy organizing **WordPress Meetups** and contributing to the **local developer community** to help others grow their skills!
-
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmunsakib/) 
