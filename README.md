@@ -1,46 +1,110 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! Nice to see you.</h1>
+# Senior WordPress Developer | Web Engineer
+
+## 👋 About Me
+
+I am **Nazmun Sakib**, a **Senior WordPress Developer and Web Engineer** specializing in designing and engineering scalable business systems on WordPress and modern web stacks.
+
+Currently serving as **Lead Developer at Dynamic Web Lab**, I build high-performance, API-driven applications focused on automation, scalability, and system architecture.
+
+With 8+ years of experience, I engineer complete business ecosystems — not just websites.
 
 ---
 
-### About Me
-I am **Nazmun Sakib**, a **Lead Developer** at [Dynamic Web Lab](https://dynamicweblab.com/) with a proven track record in creating innovative and user-focused digital solutions. As an **expert plugin developer** and **WooCommerce specialist**, I excel at developing custom WordPress plugins and extending WooCommerce functionality to meet diverse business needs.
+## 🏗 Engineering Domains
 
-My expertise spans **Full Stack Development**, and I thrive on leveraging cutting-edge technologies such as WP ES6, Headless Tech, React.js, APIs, and TailwindCSS to deliver outstanding results. Whether crafting a bespoke plugin, optimizing an eCommerce platform, or designing interactive websites, I am committed to ensuring top-notch performance and scalability.
+As a Web Engineer, I design and develop:
 
-In addition to my role at Dynamic Web Lab, I also work as a freelance WordPress developer. I am currently open to exciting opportunities where I can contribute my skills and expertise to drive success in new and innovative projects.
-
----
-
-### Skills & Tools
-Here are some of the technologies I work with:
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+-  **WooCommerce & eCommerce Systems**
+-  **POS (Point of Sale) Software Systems**
+-  **Advanced Booking & Reservation Platforms**
+-  **Inventory Management Systems**
+-  **B2B Commerce & Wholesale Platforms**
+-  Cross-site Order Management Systems
+-  REST API–Driven Web Applications
+-  Performance-Optimized Scalable Architectures
 
 ---
 
-### Projects
-🔗 Check out all of my projects here: [nazmunsakib.com](https://nazmunsakib.com)
+## 🛠 Technical Stack
+
+### Backend Engineering
+- PHP (Advanced OOP & WordPress Core Architecture)
+- MySQL (Optimized Queries & Data Modeling)
+- REST API Design & Integration
+
+### Frontend Engineering
+- JavaScript (ES6+)
+- React.js (Headless & Interactive UI Systems)
+- TailwindCSS
+- Gutenberg Block Development
+
+### WordPress Specialization
+- Custom Plugin Development
+- WooCommerce Extensions
+- Advanced Custom Fields (ACF)
+- Business Automation Plugins
+- Secure & Modular Architecture Design
 
 ---
 
-### Get in Touch
-- 💬 Ask me about **WordPress, Plugin Development, WooCommerce, and Web Development**
-- 📄 Learn more about my experiences: [Website](https://nazmunsakib.com)
-- 📧 Reach me at: **nazmunsakib81@gmail.com**
-- 📧 Reach me at [Linkedin](https://www.linkedin.com/in/nazmunsakib/)
-  
+## 🚀 Systems I Engineer
+
+I focus on building:
+
+- Enterprise WooCommerce Solutions
+- Custom POS Software Integrated with eCommerce
+- Scalable Booking Systems with Payment Automation
+- Real-time Inventory Synchronization Systems
+- B2B Ordering & Wholesale Logic Platforms
+- API-based Multi-Site Commerce Systems
+
 ---
 
-### Fun Fact
-I enjoy organizing **WordPress Meetups** and contributing to the **local developer community** to help others grow their skills!
+## 🌍 Professional Positioning
+
+- Senior WordPress Developer
+- Web Engineer
+- WooCommerce Systems Architect
+- Technical Lead
+
+Open to remote collaboration and engineering-driven projects.
+
+---
+
+### 📊 GitHub Stats
+
+<!-- <p align="center">
+  <a href="https://github.com/nazmunsakib">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nazmunsakib&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  </a>
+</p> -->
+
+<p align="left">
+  <a href="https://github.com/nazmunsakib">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nazmunsakib&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="40%" />
+  </a>
+</p>
+
+---
+
+## 🔗 Portfolio & Repositories
+
+- 🌐 Website: https://nazmunsakib.com
+- 💻 GitHub: https://github.com/nazmunsakib
+
+---
+
+## 🤝 WordPress Community Contribution
+
+- Volunteer, WordCamp Dhaka 2025
+- Attendee, WordCamp Sylhet 2024
+- Volunteer, WordCamp Sylhet 2023
+- Volunteer, WordCamp Dhaka 2019
+- WordPress Meetup Organizer
+
+---
+
+## 📬 Contact
+
+- LinkedIn: https://www.linkedin.com/in/nazmunsakib/
+- Email: nazmunsakib81@gmail.com
