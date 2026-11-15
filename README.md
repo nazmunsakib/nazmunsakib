@@ -1,19 +1,18 @@
-# Nazmun Sakib | Software Engineer & Web Developer in Bangladesh
+# Nazmun Sakib | Software Engineer & Web Developer
 
-**Nazmun Sakib** is a Bangladeshi **software engineer and web developer** based in **Cumilla, Bangladesh**, with 8+ years of experience building websites, WordPress and WooCommerce platforms, custom web applications, ecommerce tracking systems and AI automation. He works remotely with businesses in Dhaka, Chattogram, Sylhet and across Bangladesh, and with international clients in Europe, the Middle East, Australia and North America. Working languages: Bangla and English.
+**Nazmun Sakib** is a **software engineer and web developer** with 8+ years of experience building websites, WordPress and WooCommerce platforms, custom web applications, ecommerce tracking systems and AI automation. He works remotely with businesses and teams worldwide, including in Europe, the Middle East, Australia and North America. Working languages: English and Bangla.
 
-🌐 **Website:** [nazmunsakib.com](https://nazmunsakib.com/) · 🇧🇩 **বাংলা:** [বাংলাদেশি ওয়েব ডেভেলপার](https://nazmunsakib.com/bn/web-developer-bangladesh/)
+🌐 **Website:** [nazmunsakib.com](https://nazmunsakib.com/)
 
 ---
 
 ## Who I am
 
-I am a Bangladeshi web developer who treats a website as a system, not a page. I design and build the engine behind a business: the store, the pricing and checkout logic, the tracking, the CRM and email automation, and the custom applications that connect them.
+I am a web developer who treats a website as a system, not a page. I design and build the engine behind a business: the store, the pricing and checkout logic, the tracking, the CRM and email automation, and the custom applications that connect them.
 
 - **Role:** Software Engineer / Web Developer / WooCommerce Systems Architect
-- **Location:** Cumilla, Bangladesh (GMT+6)
 - **Experience:** 8+ years in web and software development
-- **Availability:** open to remote projects and collaboration
+- **Availability:** open to remote projects and collaboration worldwide
 
 ---
 
@@ -52,16 +51,6 @@ I am a Bangladeshi web developer who treats a website as a system, not a page. I
 
 ---
 
-## Hire a web developer in Bangladesh
-
-- [Web developer in Bangladesh](https://nazmunsakib.com/web-developer-bangladesh/)
-- [Web developer in Dhaka](https://nazmunsakib.com/web-developer-bangladesh/dhaka/) · [Chattogram](https://nazmunsakib.com/web-developer-bangladesh/chattogram/) · [Sylhet](https://nazmunsakib.com/web-developer-bangladesh/sylhet/) · [Cumilla](https://nazmunsakib.com/web-developer-bangladesh/cumilla/)
-- [How to hire a web developer in Bangladesh](https://nazmunsakib.com/hire-web-developer-bangladesh/)
-- [Web development cost in Bangladesh](https://nazmunsakib.com/web-development-cost-bangladesh/)
-- [Web developer in Dubai](https://nazmunsakib.com/web-developer-dubai/)
-
----
-
 ## WordPress community
 
 - Volunteer, WordCamp Dhaka 2025
@@ -76,7 +65,7 @@ I am a Bangladeshi web developer who treats a website as a system, not a page. I
 
 <p align="left">
   <a href="https://github.com/nazmunsakib">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nazmunsakib&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top programming languages used by Nazmun Sakib, Bangladeshi web developer" width="40%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nazmunsakib&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top programming languages used by Nazmun Sakib, software engineer and web developer" width="40%" />
   </a>
 </p>
 
